@@ -3,4 +3,20 @@
 
 
 <!--END_SECTION:waka-->
-![alt text](https://wakatime.com/share/@nubisub/606934f1-e121-4a93-8e4f-4efc7abc59d7.svg)
+
+<!-- 
+| First Header  | Second Header |
+| ------------- | ------------- |
+|||
+ 
+ <img src="https://wakatime.com/share/@nubisub/da1e9a6d-9302-45f3-9522-4de35776b51e.svg" width="50%">
+ <img src="https://wakatime.com/share/@nubisub/9812388c-26bf-4c8b-aa96-d0e480a28ea6.svg" width="50%">
+ <img src="https://wakatime.com/share/@nubisub/8fc5f899-4501-4318-929e-8b437c50ed75.svg" width="50%">
+<!--  <img src="https://wakatime.com/share/@nubisub/da1e9a6d-9302-45f3-9522-4de35776b51e.svg" width="50%"> -->
+ 
+<table width="100%">
+<tr>
+<td width="50%"><img src="https://wakatime.com/share/@nubisub/da1e9a6d-9302-45f3-9522-4de35776b51e.svg" width="600"></td>
+<td width="50%"> <img src="https://wakatime.com/share/@nubisub/9812388c-26bf-4c8b-aa96-d0e480a28ea6.svg" width="500"></td>
+</tr>
+</table>
