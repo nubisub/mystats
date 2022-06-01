@@ -17,7 +17,7 @@
 <td width="50%"> <img src="https://wakatime.com/share/@nubisub/9812388c-26bf-4c8b-aa96-d0e480a28ea6.svg" width="600"></td>
 </tr>
  <tr>
-<td width="50%"><img src="https://wakatime.com/share/@nubisub/75fb8a10-79b8-425f-b34c-688fac67cc6c.svg" width="600"></td>
+<td width="50%"><img src="https://wakatime.com/share/@nubisub/665a9b80-83e4-42e4-8c1e-60ca966e1ae3.svg" width="600"></td>
 <td width="50%"> <img src="https://wakatime.com/share/@nubisub/b7d055e9-2527-4e54-bc0b-8c476f1309e1.svg" width="600"></td>
 </tr>
 </table>
